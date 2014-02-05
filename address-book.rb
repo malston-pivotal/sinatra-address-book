@@ -5,3 +5,6 @@ class AddressBook < Sinatra::Base
     'Hello World!'
   end
 end
+
+# tcpdump or Wireshark: http://www.wireshark.org
+# Jmeter or Marathon
